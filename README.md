@@ -1,5 +1,5 @@
 # WAE
-Codes for the Generalisation Bounds for Wasserstein Autoencoders
+Codes for the Generalisation Bounds for Wasserstein Autoencoders, used in the paper, https://openreview.net/forum?id=WjRPZsfeBO&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions)
 
 Within each of the folders, you will find a .sh file. You may need to make them executable by running "chmod +x filename.sh" in your terminal to make them executable. We recommend executing these .sh files on a GPU equipped with CUDA for optimal performance. 
 
